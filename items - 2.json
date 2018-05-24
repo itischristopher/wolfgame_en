@@ -1,0 +1,596 @@
+[
+    {
+        "itemId": 1,
+        "chapterId": 1,
+        "name": "色紙",
+        "image": "item/item_syouko_1_sikisi.jpg",
+        "description": "A thick card dedicated to Yuuya.",
+        "isItem": true
+    },
+    {
+        "itemId": 2,
+        "chapterId": 1,
+        "name": "黒板のメッセージ",
+        "image": "item/item_syouko_1_kokuban.jpg",
+        "description": "Mysterious writing on the blackboard.",
+        "isItem": true
+    },
+    {
+        "itemId": 3,
+        "chapterId": 1,
+        "name": "患者のカルテ",
+        "image": "item/item_syouko_1_seisinkalist.jpg",
+        "description": "Patients' psychiatric clinical records.",
+        "isItem": true
+    },
+    {
+        "itemId": 4,
+        "chapterId": 1,
+        "name": "胸元から出血",
+        "image": "item/item_syouko_1_bengosi_mune.jpg",
+        "description": "Miho lost a lot of blood from her chest.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 5,
+        "chapterId": 1,
+        "name": "キッチンの包丁",
+        "image": "item/item_syouko_1_houtyou.jpg",
+        "description": "There are *kitchen knives* in the kitchen.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 6,
+        "chapterId": 1,
+        "name": "武器庫のサバイバルナイフ",
+        "image": "item/item_syouko_1_survivalknife.jpg",
+        "description": "There are *survival knives* in the armory.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 7,
+        "chapterId": 1,
+        "name": "武器庫の警備",
+        "image": "item/item_syouko_1_keibi_futari.jpg",
+        "description": "*Takeo* and *Takuya* were guarding the armory yesterday.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 8,
+        "chapterId": 1,
+        "name": "警備中のタケオさん",
+        "image": "item/item_syouko_1_toire_keisatu.jpg",
+        "description": "Takeo had to go to the *bathroom* for a while.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 9,
+        "chapterId": 1,
+        "name": "腕に不自然な腫れ",
+        "image": "item/item_syouko_1_bengosi_ude1.jpg",
+        "description": "Miho's arm is *unnaturally swollen.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 10,
+        "chapterId": 1,
+        "name": "雑巾",
+        "image": "item/item_syouko_1_zoukin.jpg",
+        "description": "A slightly damp cloth.",
+        "isItem": true
+    },
+    {
+        "itemId": 11,
+        "chapterId": 1,
+        "name": "左腕に注射痕",
+        "image": "item/item_syouko_1_bengosi_ude2.jpg",
+        "description": "Miho's left arm has a probable *syringe injection wound.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 12,
+        "chapterId": 1,
+        "name": "使用された睡眠薬",
+        "image": "item/item_syouko_1_suminyaku.jpg",
+        "description": "Sleeping pills. *Some are already used.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 13,
+        "chapterId": 1,
+        "name": "警備中の証言",
+        "image": "item/item_syouko_1_osamu_kita.jpg",
+        "description": "*Osamu* watched Takuya keeping watch alone.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 14,
+        "chapterId": 1,
+        "name": "病室の注射器",
+        "image": "item/item_syouko_1_tyuusyaki.jpg",
+        "description": "There are syringes in the clinic. *Somebody took* one.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 15,
+        "chapterId": 2,
+        "name": "脚立",
+        "image": "item/item_syouko_2_kyatatu.jpg",
+        "description": "A stepladder. Useful to reach high places with.",
+        "isItem": true
+    },
+    {
+        "itemId": 16,
+        "chapterId": 2,
+        "name": "お面",
+        "image": "item/item_syouko_2_omen.jpg",
+        "description": "A wolf mask. The same one that wolf used yesterday.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 17,
+        "chapterId": 2,
+        "name": "タクヤさんと彼女の記念日",
+        "image": "item/item_syouko_2_kinenbi.jpg",
+        "description": "Takuya and his girlfriend's anniversary is December 24.",
+        "isItem": true
+    },
+    {
+        "itemId": 18,
+        "chapterId": 2,
+        "name": "タクヤのスマホ",
+        "image": "item/item_syouko_2_sumaho.jpg",
+        "description": "Takuya's smartphone.\nBloody fingers stained the screen.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 19,
+        "chapterId": 2,
+        "name": "狼の写真",
+        "image": "item/item_syouko_2_syasin.jpg",
+        "description": "A picture Takuya took of the wolf. The *weapon is blurry and hard to see.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 20,
+        "chapterId": 2,
+        "name": "水槽の電灯",
+        "image": "item/item_syouko_2_yobi_dentou.jpg",
+        "description": "A fishtank's lightbulb. I took this from the fishtank in the classroom.",
+        "isItem": true
+    },
+    {
+        "itemId": 21,
+        "chapterId": 2,
+        "name": "鶏肉",
+        "image": "item/item_syouko_2_toriniku.jpg",
+        "description": "Poultry. We took this from the kitchen.",
+        "isItem": true
+    },
+    {
+        "itemId": 22,
+        "chapterId": 2,
+        "name": "水槽の岩",
+        "image": "item/item_syouko_2_suisou_iwa.jpg",
+        "description": "A rock that was in the fishtank. There's a red stain on the rock.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 23,
+        "chapterId": 2,
+        "name": "割れた水槽のライト",
+        "image": "item/item_syouko_2_suisou_light.jpg",
+        "description": "The light in the *fishtank* in the plant room is broken.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 24,
+        "chapterId": 2,
+        "name": "植物室にある鉢",
+        "image": "item/item_syouko_2_hati.jpg",
+        "description": "A *pot* in the plant room that could double as a *blunt weapon.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 25,
+        "chapterId": 2,
+        "name": "タクヤさんは撲殺された",
+        "image": "item/item_syouko_2_bokusatu.jpg",
+        "description": "Takuya appears *beaten to death.* His face is in a hideous state...",
+        "isEvidence": true
+    },
+    {
+        "itemId": 26,
+        "chapterId": 2,
+        "name": "タケオさんとマキさん",
+        "image": "item/item_syouko_2_takeo_maki.jpg",
+        "description": "*Takeo* seems to be *taking interest* in *Maki.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 27,
+        "chapterId": 3,
+        "name": "カーテンの切れ端",
+        "image": "item/item_syouko_3_curtain.jpg",
+        "description": "A curtain scrap. Tattered and old, but the cloth itself is sturdy enough.",
+        "isItem": true
+    },
+    {
+        "itemId": 28,
+        "chapterId": 3,
+        "name": "即席ナイフ",
+        "image": "item/item_syouko_3_kagamiknife.jpg",
+        "description": "A knife made from a glass fragment and a curtain scrap. I cut my palm making it.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 29,
+        "chapterId": 3,
+        "name": "睡眠薬",
+        "image": "item/item_syouko_1_suminyaku.jpg",
+        "description": "Sleeping pills. I took these from the clinic.",
+        "isItem": true
+    },
+    {
+        "itemId": 30,
+        "chapterId": 3,
+        "name": "睡眠薬入りの紅茶",
+        "image": "item/item_syouko_3_suimiyaku_tea.jpg",
+        "description": "Black tea with sleeping pills mixed in.",
+        "isItem": true
+    },
+    {
+        "itemId": 31,
+        "chapterId": 3,
+        "name": "灯油入りペットボトル",
+        "image": "item/item_syouko_3_petbottle2.jpg",
+        "description": "A plastic bottle with kerosene inside.",
+        "isItem": true
+    },
+    {
+        "itemId": 32,
+        "chapterId": 3,
+        "name": "ペットボトル",
+        "image": "item/item_syouko_3_petbottle1.jpg",
+        "description": "An empty plastic bottle.",
+        "isItem": true
+    },
+    {
+        "itemId": 33,
+        "chapterId": 3,
+        "name": "使い捨てカイロ",
+        "image": "item/item_syouko_3_kairo.jpg",
+        "description": "A disposable hand warmer. It's unopened, and seems new.",
+        "isItem": true
+    },
+    {
+        "itemId": 34,
+        "chapterId": 3,
+        "name": "線香",
+        "image": "item/item_syouko_3_senkou.jpg",
+        "description": "I took a few sticks of *incense* from the desk in the classroom.",
+        "isItem": true
+    },
+    {
+        "itemId": 35,
+        "chapterId": 3,
+        "name": "チエさんのロウソク",
+        "image": "item/item_syouko_3_tie_rousoku.jpg",
+        "description": "Chie is carrying around *many candles* for use in her rituals.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 36,
+        "chapterId": 3,
+        "name": "ボイスレコーダー",
+        "image": "item/item_syouko_3_voicerecorder.jpg",
+        "description": "A high-performance voice recorder. Borrowed from Maki to fake Osamu's screams with.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 37,
+        "chapterId": 3,
+        "name": "ボイスレコーダーの破片",
+        "image": "item/item_syouko_3_voicerecorder2.jpg",
+        "description": "A fragment of the voice recorder. *I couldn't find the main part of it.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 38,
+        "chapterId": 3,
+        "name": "水入りのバケツ",
+        "image": "item/item_syouko_3_baketu.jpg",
+        "description": "I put water in an empty bucket.",
+        "isItem": true
+    },
+    {
+        "itemId": 39,
+        "chapterId": 3,
+        "name": "オサムさんの日記帳",
+        "image": "item/item_syouko_3_nikki.jpg",
+        "description": "Osamu's diary. Entries are written every 30 minutes: final entry is at 11:30 PM. Nothing from midnight onwards.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 40,
+        "chapterId": 3,
+        "name": "オサムさんの懐中時計",
+        "image": "item/item_syouko_3_tokei.jpg",
+        "description": "Osamu's broken watch. It was burned in the conflagration, and it no longer works.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 41,
+        "chapterId": 3,
+        "name": "ミステリー小説",
+        "image": "item/item_syouko_3_book_mystery.jpg",
+        "description": "A mystery novel. Within is written details about a \"burned corpse time difference trick.\"",
+        "isItem": true
+    },
+    {
+        "itemId": 42,
+        "chapterId": 3,
+        "name": "「蝶の糸」という本",
+        "image": "item/item_syouko_3_book_tyou.jpg",
+        "description": "A book entitled, \"The Butterflies' Thread.\" *7 butterflies* are on the cover.",
+        "isItem": true
+    },
+    {
+        "itemId": 43,
+        "chapterId": 3,
+        "name": "「星のほとり」という本",
+        "image": "item/item_syouko_3_book_hosi.jpg",
+        "description": "A book entitled, \"The Banks of the Stars.\" *5 stars* are on the cover.",
+        "isItem": true
+    },
+    {
+        "itemId": 44,
+        "chapterId": 3,
+        "name": "「青い鳥」という本",
+        "image": "item/item_syouko_3_book_tori.jpg",
+        "description": "A book entitled, \"The Blue Birds.\" *4 birds* are on the cover.",
+        "isItem": true
+    },
+    {
+        "itemId": 45,
+        "chapterId": 3,
+        "name": "リビングにある大きな時計",
+        "image": "item/item_syouko_3_big_clock.jpg",
+        "description": "A giant clock in the living room. The only way to keep track of time in this building.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 46,
+        "chapterId": 3,
+        "name": "オサムさんと図書室",
+        "image": "item/item_syouko_3_osamu_syomotu.jpg",
+        "description": "Osamu often came to the library to read. 本を読んでいるときは隙が多いと言っていた。",
+        "isEvidence": true
+    },
+    {
+        "itemId": 47,
+        "chapterId": 4,
+        "name": "絵日記",
+        "image": "item/item_syouko_4_enikki.jpg",
+        "description": "A child's picture diary. The pages inside are torn up in spots. A page remains with a boy holding up his thumb.",
+        "isItem": true
+    },
+    {
+        "itemId": 48,
+        "chapterId": 4,
+        "name": "破れた女の子のページ",
+        "image": "item/item_syouko_4_girl.jpg",
+        "description": "A drawing of a girl making a peace sign. Probably a page torn from the picture diary.",
+        "isItem": true
+    },
+    {
+        "itemId": 49,
+        "chapterId": 4,
+        "name": "破れたお父さんのページ",
+        "image": "item/item_syouko_4_papa.jpg",
+        "description": "A drawing of a man, appearing to be a father, is holding up both thumbs. Probably a page torn from the picture diary.",
+        "isItem": true
+    },
+    {
+        "itemId": 50,
+        "chapterId": 4,
+        "name": "破れたお母さんのページ",
+        "image": "item/item_syouko_4_mama.jpg",
+        "description": "A drawing of a woman, appearing to be a mother, raising a hand. Probably a page torn from the picture diary.",
+        "isItem": true
+    },
+    {
+        "itemId": 51,
+        "chapterId": 4,
+        "name": "タケオさんの通知書",
+        "image": "item/item_syouko_4_tuutisyo.jpg",
+        "description": "Due to Takeo's negligence of his duties, he allowed an atrocious criminal to roam free.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 52,
+        "chapterId": 4,
+        "name": "血まみれのボロボロの服",
+        "image": "item/item_syouko_4_boroboro.jpg",
+        "description": "Bloody, tattered *clothing* belonging to a *woman.* There are numerous holes in it, as though from stabbing.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 53,
+        "chapterId": 5,
+        "name": "バール",
+        "image": "item/item_syouko_5_baru.jpg",
+        "description": "A crowbar that was in the armory.",
+        "isItem": true
+    },
+    {
+        "itemId": 54,
+        "chapterId": 5,
+        "name": "扉の外側の傷",
+        "image": "item/item_syouko_5_door_kizu.jpg",
+        "description": "There are scratch marks on the bottom *exterior edge of the door.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 55,
+        "chapterId": 5,
+        "name": "ボロボロになった爪",
+        "image": "item/item_syouko_5_tume.jpg",
+        "description": "Looking at Chie's corpse, I can see that her *nails are scuffed up and broken.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 56,
+        "chapterId": 5,
+        "name": "花の絵の描かれた紙",
+        "image": "item/item_syouko_5_angou1.jpg",
+        "description": "A piece of paper with a *rose bud* drawn on it. It was left beside Chie's box.",
+        "isItem": true
+    },
+    {
+        "itemId": 57,
+        "chapterId": 5,
+        "name": "３つの絵の描かれた紙",
+        "image": "item/item_syouko_5_angou2.jpg",
+        "description": "A piece of paper with a \"nutcracker,\" \"scorpion,\" and \"fish\" drawn on it, inside Chie's box.",
+        "isItem": true
+    },
+    {
+        "itemId": 58,
+        "chapterId": 5,
+        "name": "懐中電灯",
+        "image": "item/item_syouko_5_right.jpg",
+        "description": "A flashlight. It seems to have a working bulb.",
+        "isItem": true
+    },
+    {
+        "itemId": 59,
+        "chapterId": 5,
+        "name": "小さな鍵",
+        "image": "item/item_syouko_5_key.jpg",
+        "description": "A small key. It was inside of a rose.",
+        "isItem": true
+    },
+    {
+        "itemId": 60,
+        "chapterId": 5,
+        "name": "星座表",
+        "image": "item/item_syouko_5_seiza.jpg",
+        "description": "A compendium of the 12 star signs. The marks of the 12 star signs are drawn on it.",
+        "isItem": true
+    },
+    {
+        "itemId": 61,
+        "chapterId": 5,
+        "name": "2つ目の鍵",
+        "image": "item/item_syouko_5_key.jpg",
+        "description": "A tiny key. It was inside the clock's nutcracker's mouth in the living room.",
+        "isItem": true
+    },
+    {
+        "itemId": 62,
+        "chapterId": 5,
+        "name": "チエさんのポエム",
+        "image": "item/item_syouko_5_menhera_poem.jpg",
+        "description": "Chie's poem. It's handwritten, but the *handwriting* seems *different* from her will's.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 63,
+        "chapterId": 5,
+        "name": "床にこぼれた液体",
+        "image": "item/item_syouko_5_nazo_ekitai.jpg",
+        "description": "Underneath the poison shelf in the armory, there are several drops of *some kind of fluid* spilled on the floor.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 64,
+        "chapterId": 5,
+        "name": "ドライバー",
+        "image": "item/item_syouko_5_driver.jpg",
+        "description": "A screwdriver that should be able to loosen screws.",
+        "isItem": true
+    },
+    {
+        "itemId": 65,
+        "chapterId": 5,
+        "name": "物置と武器庫が繋がる通気口",
+        "image": "item/item_syouko_5_tuukikou.jpg",
+        "description": "A small ventilation shaft connects the storage room and the armory. Duct tape scraps are on the armory side entrance.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 66,
+        "chapterId": 5,
+        "name": "扉の内側のキズ",
+        "image": "item/item_syouko_5_door_hikkaki.jpg",
+        "description": "On the *interior of the door,* there are *marks* as though from *nail scratches.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 67,
+        "chapterId": 5,
+        "name": "他の棚の違和感",
+        "image": "item/item_syouko_5_tana_iwakan.jpg",
+        "description": "There are two shelves in the storage room. The large shelf on the right seems tidier than before.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 68,
+        "chapterId": 5,
+        "name": "紙とペン",
+        "image": "item/item_syouko_5_dummy_paper_pen.jpg",
+        "description": "I found these in *Kou's belongings.* I think they're what were used to write Chie's will with.",
+        "isEvidence": true
+    },
+    {
+        "itemId": 69,
+        "chapterId": 5,
+        "name": "膝の上の遺書",
+        "image": "item/item_syouko_5_hiza.jpg",
+        "description": "There's a will in Chie's *lap.*",
+        "isEvidence": true
+    },
+    {
+        "itemId": 70,
+        "chapterId": 5,
+        "name": "思い出の家族写真",
+        "image": "item/item_syouko_5_kazoku_pict.jpg",
+        "description": "An *old portrait* of a happy *family.* Their faces are time-faded, so I can't see who they are.",
+        "isEvidence": true,
+        "isSecret": true
+    },
+    {
+        "itemId": 71,
+        "name": "ドアの鍵",
+        "image": "item/tutorial_key.jpg",
+        "description": "I found a door key on the lightbulb.",
+        "isItem": true
+    },
+    {
+        "itemId": 72,
+        "image": "item/blanc.png"
+    },
+    {
+        "itemId": 73,
+        "image": "item/blanc.png"
+    },
+    {
+        "itemId": 74,
+        "image": "item/blanc.png"
+    },
+    {
+        "itemId": 75,
+        "image": "item/blanc.png"
+    },
+    {
+        "itemId": 76,
+        "image": "item/blanc.png"
+    },
+    {
+        "itemId": 77
+    },
+    {
+        "itemId": 78
+    }
+]
